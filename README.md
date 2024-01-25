@@ -1,7 +1,7 @@
 ![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/fs/54b6c068097599.5b50bca476b9b.gif)
 <h1 align="center">Hi 👋, I'm Om Avcher</h1>
 <h3 align="center">Aspiring Computer Science Engineer | Coding Enthusiast</h3>
-<img aling="right" alt="Coding" width=="400" scr="https://miro.medium.com/v2/resize:fit:1360/0*7Q3yvSIv_t0ioJ-Z.gif">
+<img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1360/0*7Q3yvSIv_t0ioJ-Z.gif">
 
 
 - 🌱 I’m currently learning **C++ & DSA**
