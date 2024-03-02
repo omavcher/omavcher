@@ -44,9 +44,9 @@
 </p>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=omawchar007&show_icons=true&locale=en&layout=compact" alt="omawchar007" /></p>
+![Total Contributions](https://ghchart.rshah.org/omawchar007)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=omawchar007&show_icons=true&locale=en" alt="omawchar007" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=omawchar007&" alt="omawchar007" /></p>
+
+
 
