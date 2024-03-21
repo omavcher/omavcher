@@ -8,8 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/omawchar007?tab=repositories](https://github.com/omawchar007?tab=repositories)
 
-- 💬 Ask me about **DSA , C ,C++** ,SQL ,PHP ,JAVA
-
+- 💬 Ask me about **DSA , C ,C++** , Web Development
 - 📫 How to reach me **omawcharbusiness123@gmail.com**
 
 - ⚡ Fun fact **🎮 I once coded a simple game when I was 12, and it ignited my love for programming. From pixels to algorithms, I'm still fascinated by the magic of turning ideas into code!**
@@ -24,7 +23,6 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
     <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
@@ -35,12 +33,24 @@
     <a href="https://www.php.net" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> 
     </a> 
-    <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
-    </a> 
     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/> 
     </a> 
+    <a href="https://www.w3.org/html/" target="_blank" rel="noopener noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/> 
+</a>
+<a href="https://www.w3.org/Style/CSS/" target="_blank" rel="noopener noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/> 
+</a>
+<a href="https://www.javascript.com/" target="_blank" rel="noopener noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> 
+</a>
+<a href="https://www.mongodb.com/" target="_blank" rel="noopener noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/> 
+</a>
+    <a href="https://reactjs.org/" target="_blank" rel="noopener noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/> 
+</a>
 </p>
 
 
