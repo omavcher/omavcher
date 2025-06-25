@@ -10,25 +10,6 @@
 📫 **Contact:** omawchar07@gmail.com | omawcharbusiness123@gmail.com<br>
 ⚡ **Fun fact:** Built a revenue-generating dating platform at 19!
 
-## 🌐 Socials:
-<p align="left">
-  <a href="[https://leetcode.com/omavchar/](https://leetcode.com/u/omavcher/)" target="_blank">
-    <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" alt="LeetCode" height="30"/>
-  </a>
-  <a href="https://linkedin.com/in/omawchar" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30"/>
-  </a>
-  <a href="https://twitter.com/omawchar07" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30"/>
-  </a>
-  <a href="https://github.com/omawchar007" target="_blank">
-    <img src="https://img.icons8.com/ios-glyphs/30/000000/github.png" alt="GitHub" height="30"/>
-  </a>
-  <a href="https://www.hackerrank.com/omawchar07" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30"/>
-  </a>
-</p>
-
 ## 🛠️ Tech Stack:
 
 ### 🔧 Frontend Technologies
