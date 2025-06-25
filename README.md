@@ -1,62 +1,101 @@
+# 💫 About Me:
 ![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/fs/54b6c068097599.5b50bca476b9b.gif)
-<h1 align="center">Hi 👋, I'm Om Avcher</h1>
-<h3 align="center">Aspiring Computer Science Engineer | Coding Enthusiast</h3>
+<h1 align="center">Hi 👋, I'm Om Avchar</h1>
+<h3 align="center">Full-Stack Developer | AI Enthusiast | Tech Entrepreneur</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1360/0*7Q3yvSIv_t0ioJ-Z.gif">
 
+🔭 **Building:** Next-gen AI applications with MERN stack<br>
+🌱 **Mastering:** Advanced System Design & Cloud Architecture<br>
+💬 **Ask me about:** Startup scaling or AI integration challenges!<br>
+📫 **Contact:** omawchar07@gmail.com | omawcharbusiness123@gmail.com<br>
+⚡ **Fun fact:** Built a revenue-generating dating platform at 19!
 
-- 🌱 I’m currently learning **C++ & DSA**
-
-- 👨‍💻 All of my projects are available at [https://github.com/omawchar007?tab=repositories](https://github.com/omawchar007?tab=repositories)
-
-- 💬 Ask me about **DSA , C ,C++** , Web Development
-- 📫 How to reach me **omawcharbusiness123@gmail.com**
-
-- ⚡ Fun fact **🎮 I once coded a simple game when I was 12, and it ignited my love for programming. From pixels to algorithms, I'm still fascinated by the magic of turning ideas into code!**
-
-<h3 align="left">Connect with me:</h3>
+## 🌐 Socials:
 <p align="left">
-<a href="https://twitter.com/omawchar07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="omawchar07" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/omawchar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="omawchar" height="30" width="40" /></a>
-<a href="https://instagram.com/omawchar07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="omawchar07" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/codesofom" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="codesofom" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/omawchar07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="omawchar07" height="30" width="40" /></a>
+  <a href="https://leetcode.com/omavchar/" target="_blank">
+    <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" alt="LeetCode" height="30"/>
+  </a>
+  <a href="https://linkedin.com/in/omawchar" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30"/>
+  </a>
+  <a href="https://twitter.com/omawchar07" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30"/>
+  </a>
+  <a href="https://github.com/omawchar007" target="_blank">
+    <img src="https://img.icons8.com/ios-glyphs/30/000000/github.png" alt="GitHub" height="30"/>
+  </a>
+  <a href="https://www.hackerrank.com/omawchar07" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30"/>
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-    <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
-    </a> 
-    <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
-    </a> 
-    <a href="https://www.php.net" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> 
-    </a> 
-    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/> 
-    </a> 
-    <a href="https://www.w3.org/html/" target="_blank" rel="noopener noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/> 
-</a>
-<a href="https://www.w3.org/Style/CSS/" target="_blank" rel="noopener noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/> 
-</a>
-<a href="https://www.javascript.com/" target="_blank" rel="noopener noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> 
-</a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noopener noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/> 
-</a>
-    <a href="https://reactjs.org/" target="_blank" rel="noopener noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/> 
-</a>
-</p>
+## 🛠️ Tech Stack:
 
+### 🔧 Frontend Technologies
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
 
-![Total Contributions](https://ghchart.rshah.org/omawchar007)
+### 🧠 Backend & Database
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Passport.js](https://img.shields.io/badge/Passport.js-34E27A?style=for-the-badge&logo=passport&logoColor=black)
+![OAuth](https://img.shields.io/badge/OAuth-4285F4?style=for-the-badge&logo=google&logoColor=white)
 
+### ☁️ DevOps & Hosting
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
+### 📊 Problem Solving
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![DSA](https://img.shields.io/badge/DSA-FF6D00?style=for-the-badge&logo=leetcode&logoColor=white)
 
+### 🤖 AI & Integrations
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-FF6D01?style=for-the-badge&logo=google&logoColor=white)
+![Razorpay](https://img.shields.io/badge/Razorpay-02042B?style=for-the-badge&logo=razorpay&logoColor=3395FF)
 
+## 🚀 Experience:
+**Bluestock Fintech** | SDE Intern (Remote) | Apr 2025 – May 2025  
+- Architected scalable microservices handling 10K+ RPM  
+- Implemented JWT authentication with 99.9% uptime  
 
+**Next24tech** | Front-End Lead (Remote) | Jul 2024 – Aug 2024  
+- Led team building responsive dashboards with 30% performance boost  
+- Integrated real-time analytics using WebSockets  
+
+## 🏆 Featured Projects:
+### 💖 HeartEcho (AI Dating Platform)  
+💰 **$1500+ revenue** | 🏆 **500+ active users**  
+⚙️ MERN + OpenAI/Gemini + Redux Toolkit  
+
+### 🛒 E-Commerce with Razorpay  
+💳 **100% payment success rate** | 🚀 **<1s load time**  
+⚙️ Next.js + Node.js + Razorpay API  
+
+### 🤖 Al Hire Me (AI Career Assistant)  
+📝 **Smart resume builder** | 🗺️ Personalized roadmap generator  
+⚙️ React + Gemini API + NLP processing  
+
+## 📊 GitHub Analytics:
+<div align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=omavcher&show_icons=true&theme=radical" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=omavcher&theme=radical" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=omavcher&theme=react-dark" width="90%"/>
+</div>
+
+## ✨ Visitor Count:
+![Visitor Count](https://komarev.com/ghpvc/?username=omavcher&color=blueviolet)
