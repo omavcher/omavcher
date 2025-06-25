@@ -12,7 +12,7 @@
 
 ## 🌐 Socials:
 <p align="left">
-  <a href="https://leetcode.com/omavchar/" target="_blank">
+  <a href="[https://leetcode.com/omavchar/](https://leetcode.com/u/omavcher/)" target="_blank">
     <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" alt="LeetCode" height="30"/>
   </a>
   <a href="https://linkedin.com/in/omawchar" target="_blank">
