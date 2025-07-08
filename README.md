@@ -59,6 +59,7 @@
 ### 💖 HeartEcho (AI Dating Platform)  
 💰 **$1500+ revenue** | 🏆 **500+ active users**  
 ⚙️ MERN + OpenAI/Gemini + Redux Toolkit  
+<img align="right" alt="Coding" width="400" src="https://i0.wp.com/flomu.net/blog/wp-content/uploads/2018/03/coder.gif">
 
 ### 🛒 E-Commerce with Razorpay  
 💳 **100% payment success rate** | 🚀 **<1s load time**  
