@@ -69,15 +69,5 @@
 📝 **Smart resume builder** | 🗺️ Personalized roadmap generator  
 ⚙️ React + Gemini API + NLP processing  
 
-## 📊 GitHub Analytics:
-<div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=omavcher&show_icons=true&theme=radical" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=omavcher&theme=radical" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=omavcher&theme=react-dark" width="90%"/>
-</div>
-
 ## ✨ Visitor Count:
 ![Visitor Count](https://komarev.com/ghpvc/?username=omavcher&color=blueviolet)
