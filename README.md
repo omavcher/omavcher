@@ -57,7 +57,8 @@
 
 ## 🏆 Featured Projects:
 ### 💖 HeartEcho (AI Dating Platform)  
-💰 **$1500+ revenue** | 🏆 **500+ active users**  
+![HeartEcho](heartecho.in)
+💰 **$1500+ revenue** | 👥 **300K+ total users** | 🏆 **500+ active users**  
 ⚙️ MERN + OpenAI/Gemini + Redux Toolkit  
 <img align="right" alt="Coding" width="400" src="https://i0.wp.com/flomu.net/blog/wp-content/uploads/2018/03/coder.gif">
 
