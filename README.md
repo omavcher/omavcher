@@ -55,12 +55,25 @@
 - Led team building responsive dashboards with 30% performance boost  
 - Integrated real-time analytics using WebSockets  
 
-## 🏆 Featured Projects:
-### 💖 HeartEcho (AI Dating Platform)  
-![HeartEcho](heartecho.in)
-💰 **$1500+ revenue** | 👥 **300K+ total users** | 🏆 **500+ active users**  
-⚙️ MERN + OpenAI/Gemini + Redux Toolkit  
-<img align="right" alt="Coding" width="400" src="https://i0.wp.com/flomu.net/blog/wp-content/uploads/2018/03/coder.gif">
+<img align="right" src="https://heartecho.in/heartechor.png" width="120" alt="HeartEcho Logo">
+
+## 🏆 Featured Projects
+
+### 💖 HeartEcho — AI Dating Platform  
+🔗 https://www.heartecho.in/
+
+💰 **$1500+ Revenue Generated**  
+👥 **300K+ Total Users**  
+🔥 **500+ Active Users**
+
+⚙️ **Tech Stack:** MERN (MongoDB, Express, React, Node.js), OpenAI / Gemini, Redux Toolkit  
+
+🚀 **Highlights:**
+- AI-powered dating & chat platform  
+- Real-time conversations with smart AI personalities  
+- Secure auth, payments & scalable backend  
+- Built as a real revenue-generating startup
+
 
 ### 🛒 E-Commerce with Razorpay  
 💳 **100% payment success rate** | 🚀 **<1s load time**  
