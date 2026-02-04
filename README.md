@@ -8,7 +8,7 @@
 🌱 **Mastering:** Advanced System Design & Cloud Architecture<br>
 💬 **Ask me about:** Startup scaling or AI integration challenges!<br>
 📫 **Contact:** omawchar07@gmail.com | omawcharbusiness123@gmail.com<br>
-⚡ **Fun fact:** Built a revenue-generating dating platform at 19!
+⚡ **Fun fact:** Built a revenue-generating dating platform at 20!
 
 ## 🛠️ Tech Stack:
 
